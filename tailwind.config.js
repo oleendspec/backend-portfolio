@@ -1,3 +1,5 @@
+/*eslint-env node*/
+
 import { nextui } from "@nextui-org/theme";
 
 /** @type {import('tailwindcss').Config} */
